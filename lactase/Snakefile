@@ -1,0 +1,2 @@
+rule tutorial:
+	shell ('multipop_selection_pipeline -p CEU_ids.txt -p YRI_ids.txt -i CEU_YRI_lactase.vcf --config-file ../../defaults.cfg -a "--imputation" -c 2')

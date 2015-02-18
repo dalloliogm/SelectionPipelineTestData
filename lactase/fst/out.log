@@ -1,0 +1,15 @@
+
+VCFtools - v0.1.11
+(C) Adam Auton 2009
+
+Parameters as interpreted:
+	--vcf /Users/gioby/workspace/selectionTools/SelectionPipelineTestData/lactase/CEU_YRI_lactase.vcf
+	--weir-fst-pop first_pop.tmp
+	--weir-fst-pop second_pop.tmp
+
+Reading Index file.
+File contains 132606 entries and 173 individuals.
+Applying Required Filters.
+After filtering, kept 173 out of 173 Individuals
+After filtering, kept 132606 out of a possible 132606 Sites
+Outputting Windowed Weir and Cockerham Fst estimates.
